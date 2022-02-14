@@ -8,7 +8,7 @@ Sa raison d’être est de contribuer au renouvellement permanent des récits et
 
 ## Objectif
 Cette semaine projet avait pour but de créer deux animations pour une partie de la page "à propos" du site de la cité europpéene des scénaristes.
-Ces animations ont été élaborées grâce à la librairie JavaScript GSAP en desktop et en mobile.
+Ces animations ont été élaborées grâce à la librairie JavaScript GSAP en desktop et en mobile (cf fichier script.js). 
 
 ## Résultats
 
